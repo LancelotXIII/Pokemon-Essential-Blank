@@ -1,0 +1,55 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BULBASAUR]
+BackSprite = -4,0
+FrontSprite = -1,26
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[IVYSAUR]
+BackSprite = -9,0
+FrontSprite = 2,22
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[VENUSAUR]
+BackSprite = 1,0
+FrontSprite = 2,11
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[CHARMANDER]
+BackSprite = -6,0
+FrontSprite = 4,19
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------
+[CHARMELEON]
+BackSprite = -3,0
+FrontSprite = -2,18
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[CHARIZARD]
+BackSprite = -2,0
+FrontSprite = 0,3
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[SQUIRTLE]
+BackSprite = -3,0
+FrontSprite = 2,20
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------
+[WARTORTLE]
+BackSprite = -2,0
+FrontSprite = -4,16
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[BLASTOISE]
+BackSprite = -3,0
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 3

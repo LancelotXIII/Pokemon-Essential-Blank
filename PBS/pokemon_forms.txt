@@ -1,0 +1,48 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[VENUSAUR,1]
+FormName = Mega Venusaur
+MegaStone = VENUSAURITE
+BaseStats = 80,100,123,80,122,120
+BaseExp = 313
+Abilities = THICKFAT
+HiddenAbilities = THICKFAT
+Height = 2.4
+Weight = 155.5
+Pokedex = In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
+Generation = 6
+#-------------------------------
+[CHARIZARD,1]
+FormName = Mega Charizard X
+MegaStone = CHARIZARDITEX
+Types = FIRE,DRAGON
+BaseStats = 78,130,111,100,130,85
+BaseExp = 317
+Abilities = TOUGHCLAWS
+HiddenAbilities = TOUGHCLAWS
+Weight = 110.5
+Color = Black
+Pokedex = The overwhelming power that fills its entire body causes it to turn black and create intense blue flames.
+Generation = 6
+#-------------------------------
+[CHARIZARD,2]
+FormName = Mega Charizard Y
+MegaStone = CHARIZARDITEY
+BaseStats = 78,104,78,100,159,115
+BaseExp = 317
+Abilities = DROUGHT
+HiddenAbilities = DROUGHT
+Weight = 100.5
+Pokedex = Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
+Generation = 6
+#-------------------------------
+[BLASTOISE,1]
+FormName = Mega Blastoise
+MegaStone = BLASTOISINITE
+BaseStats = 79,103,120,78,135,115
+BaseExp = 315
+Abilities = MEGALAUNCHER
+HiddenAbilities = MEGALAUNCHER
+Weight = 101.1
+Pokedex = The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
+Generation = 6
